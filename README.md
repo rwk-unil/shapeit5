@@ -1,5 +1,7 @@
 # Segmented HAPlotype Estimation and Imputation Tools version 5 (SHAPEIT5)
 
+[![Build](https://github.com/rwk-unil/shapeit5/actions/workflows/build.yml/badge.svg)](https://github.com/rwk-unil/shapeit5/actions)
+
 SHAPEIT5 estimates haplotypes in large datasets, with a special focus on rare variants.
 
 - **docker**: all script needed to build a docker file comprising all binaries
